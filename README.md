@@ -1,9 +1,6 @@
-# 策划 Planning
+# 计划 Planning
 
-## 路线图 Roadmap
+欢迎在[论坛](https://github.com/fimik-dev/planning/discussions/categories/ideas)提出您的想法。
 
-## 资源 
+近期计划如下：
 
-## 协作 Collaboration 
-
-工作方法 Work Method 
