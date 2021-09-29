@@ -1,4 +1,6 @@
-# 计划 Planning
+# 关于 About
+
+The beginning of everything ...
 
 欢迎去[论坛][1]提出想法、参与讨论。
 
