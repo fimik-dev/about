@@ -1,12 +1,13 @@
-# 关于 About
+# 孵化器 Incubator
 
 The beginning of everything ...
 
-欢迎去[论坛][1]提出想法、参与讨论。
+## 知识、技术、信息
 
-近期计划如下：
+- [开发知识 Knowledge](https://github.com/fimik-dev/incubator/wiki)
+- [技术和创意 Technology and Idea](https://github.com/fimik-dev/incubator/discussions/)
+
+## 近期计划
 
 - [ ] B-03
 - [ ] P-17
-
-[1]:https://github.com/fimik-dev/planning/discussions/
